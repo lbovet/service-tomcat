@@ -1,1 +1,1 @@
-from quay.io/jgoldie/tomcat7
+from tomcat:7
